@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Benjamin, interested in Machine Learning and Web development.
+
+I am fascinated by new and emerging technology and it's potential to change the world. I am on a quest for knowledge.
